@@ -3,7 +3,9 @@
 
 
 SYSTEM REQUIREMENTS:
+
   HARDWARE:- 
+  
      TPU:-  The TPU is a 28nm, 700MHz ASIC that fits into SATA hard disk slot and is connected to its host via a PCIe Gen3X16 bus that provides an effective bandwidth of 12.5GB/s.
 
      GPU:- Nvidia GTX 1080 (8 GB VRAM) RECOMMENDED
